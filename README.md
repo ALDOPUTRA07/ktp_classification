@@ -47,6 +47,10 @@
 This project is an AI tool based on CNN that classifies documents, including KTP or non-KTP. This project is based on CNN with the transfer learning method (using efficient-net).
 
 
+https://github.com/ALDOPUTRA07/ktp_classification/assets/123882693/1cd64b1a-a49c-498d-87c9-0d600b827b1c
+
+
+
 ### Built With
 
 These are list any major frameworks/libraries used to make the project.
