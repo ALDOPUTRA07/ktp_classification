@@ -23,7 +23,6 @@
     <li><a href="#background">Background</a></li>
     <li><a href="#business-values">Business Values</a></li>
     <li><a href="#how-to-works">How to Works</a></li>
-    <li><a href="#limitations-model">Limitations Model</a></li>
     <li><a href="#next-step">Next Step</a></li>
     <li><a href="#mlops-concepts">MLOPS Concepts</a></li>
     <li><a href="#aiml-canvas">AI/ML Canvas</a></li>
