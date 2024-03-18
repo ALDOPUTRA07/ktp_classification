@@ -42,7 +42,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
+Companies in finance, logistics, or other industries require customer and vendor documents for administrative purposes. However, it’s a challenge to ensure that the documents sent by the customer are correct. A tool is needed to ensure the proper document is accurate. This project could do the task automatically.
 This project is an AI tool based on CNN that classifies documents, including KTP or non-KTP. This project is based on CNN with the transfer learning method (using efficient-net).
 
 
@@ -70,7 +70,8 @@ We can use AI tools based on CNN to classify the document entered by the user/cu
 
 ## How to Works
 The current project is web (so it's easier to demonstrate); to build in production, it's better in API.
-You only need to input an image for this web project, and the results will come out.
+
+for at current web project, You only need to input an image for this web project, and the results will come out.
 
 ## Next Step 
 The model can be retrained, even with other ID card data such as NPWP, SIM, etc.
@@ -84,7 +85,7 @@ The model can be retrained, even with other ID card data such as NPWP, SIM, etc.
 - **CI/CD**. The project uses the CI/CD concept with GitHub action.
 - **Testing**. Testing includes data, model, and code testing.
 - **Reproducibility**.
-- **Monitoring**. For the next step, the project can monitor forecasting results. We can use [evidentlyAI](https://www.evidentlyai.com/)  for tool monitoring. The monitoring includes data drift, target drift, etc.
+- **Monitoring**. For the next step, the project can monitor the results. We can use [evidentlyAI](https://www.evidentlyai.com/) as a model monitoring tool.
 
 ## AI/ML Canvas
 Link AI/Canvas for this project. [LINK](https://github.com/ALDOPUTRA07/automated_forecasting/blob/main/static/AI_ML%20Canvas%20KTP%20Classification.pdf)
