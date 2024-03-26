@@ -88,7 +88,7 @@ The model can be retrained, even with other ID card data such as NPWP, SIM, etc.
 - **Monitoring**. For the next step, the project can monitor the results. We can use [evidentlyAI](https://www.evidentlyai.com/) as a model monitoring tool.
 
 ## AI/ML Canvas
-Link AI/Canvas for this project. [LINK](https://github.com/ALDOPUTRA07/automated_forecasting/blob/main/static/AI_ML%20Canvas%20KTP%20Classification.pdf)
+Link AI/Canvas for this project. [LINK](https://github.com/ALDOPUTRA07/ktp_classification/blob/main/static/AI_ML%20Canvas%20KTP%20Classification.pdf)
 <p align="center">
   <img src = "static/AI_ML Canvas KTP Classification.png">
 </p>
